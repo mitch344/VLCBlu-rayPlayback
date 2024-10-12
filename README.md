@@ -1,6 +1,6 @@
 # VLC Blu-ray Playback Setup Guide
 
-This guide will help you set up VLC Media Player to play Blu-ray discs by installing the necessary libraries and configuration files.
+This guide will help you set up VLC Media Player to play Blu-ray discs on Windows by installing the necessary libraries and configuration files.
 
 ## Prerequisites
 
